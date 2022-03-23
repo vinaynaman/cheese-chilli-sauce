@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+| What ever it takes|
+| :--- |
